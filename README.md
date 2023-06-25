@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @adisenyum
+- 👀 I’m interested in python and js, ping me with any questions you have
